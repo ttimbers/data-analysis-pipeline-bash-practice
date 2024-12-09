@@ -1,4 +1,4 @@
-name: data-analysis-practice
+name: da-pipeline-sh
 channels:
   - conda-forge
   - defaults
